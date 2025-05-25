@@ -1,6 +1,5 @@
 # Machine Learning and Reinforcement Learning Projects
-This repository includes Python-based projects from ML_HW1.ipynb to ML_HW6_1_40240112093.ipynb and cartpole.py, covering fundamental to advanced machine learning and reinforcement learning concepts. Each project is designed for educational use, with clear implementations and visualizations.
-Project Structure
+This repository includes Python-based projects, covering fundamental to advanced machine learning and reinforcement learning concepts. Each project is designed for educational use, with clear implementations and visualizations.
 
 ## Project Details
 ### Handwritten Digit Recognition using k-NN
